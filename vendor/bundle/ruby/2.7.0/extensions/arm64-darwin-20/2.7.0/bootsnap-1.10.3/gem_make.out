@@ -1,0 +1,15 @@
+current directory: /Users/yuka/Desktop/potepan/yuka/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.10.3/ext/bootsnap
+/Users/yuka/.rbenv/versions/2.7.5/bin/ruby -I /Users/yuka/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20220221-48193-1p5xysr.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yuka/Desktop/potepan/yuka/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/yuka/Desktop/potepan/yuka/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/yuka/Desktop/potepan/yuka/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.10.3/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20220221-48193-1bfr1et/bootsnap
